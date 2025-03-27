@@ -32,7 +32,7 @@ Pictures of my previous PCB design and fabrication work and some cases:
 |  |  |  |  |
 | ------- | ------- | ------- | ------- |
 | <img src='images/1.PNG' width='300' /> | <img src='images/2.PNG' width='300' />  | <img src='images/3.PNG' width='300' /> | <img src='images/4.PNG' width='300' />  ||
-| <img src='images/5.PNG' width='300' /> | <img src='images/6.PNG' width='300' />  | <img src='images/7' width='300' /> | <img src='images/8.jpeg' width='300' />  ||
+| <img src='images/5.PNG' width='300' /> | <img src='images/6.PNG' width='300' />  | <img src='images/7.jpeg' width='300' /> | <img src='images/8.jpeg' width='300' />  ||
 | <img src='images/tesis pictures.PNG' width='300' /> | <img src='images/tesis pictures1.PNG' width='300' />  | <img src='images/tesis pictures2.PNG' width='300' /> | <img src='images/9.jpeg' width='300' />  ||
-| <img src='images/10.jpeg' width='300' /> | <img src='images/11.jpeg.PNG' width='300' />  | <img src='images/12.jpeg' width='300' /> | <img src='images/13.jpeg' width='300' />  ||
+| <img src='images/10.jpeg' width='300' /> | <img src='images/11.jpeg' width='300' />  | <img src='images/12.jpeg' width='300' /> | <img src='images/13.jpeg' width='300' />  ||
 
