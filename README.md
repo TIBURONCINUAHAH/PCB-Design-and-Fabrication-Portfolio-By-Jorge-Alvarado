@@ -2,7 +2,7 @@
 This portfolio showcases my previous work in PCB design and fabrication since I learned to weld.  It includes pictures of various PCBs that I have designed and fabricated using Eagle Autodesk, KiCad and Proteus.
 
 ## Overview
-I am a Bachelor in electronic engineering from the Universidad Peruana de Ciencias Aplicadas, with experience in designing and fabricating PCBs using KiCad. I have designed and fabricated numerous PCBs for various applications, including microcontroller circuits, use of peripherals, control and communications between microcontrollers or embedded systems, IoT, remote or distance communications via wireless or wired.
+I am a Bachelor in electronic engineering from the Universidad Peruana de Ciencias Aplicadas, with experience in designing and fabricating PCBs using KiCad. I have designed and fabricated numerous PCBs for various applications, including microcontroller circuits, use of peripherals, control and communications between microcontrollers or embedded systems, IoT, remote or distance wireless or wired communication.
 
 ## Projects
 PCB design and manufacturing projects and developments with their respective enclosures
